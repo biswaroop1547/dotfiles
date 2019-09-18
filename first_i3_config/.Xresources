@@ -1,0 +1,79 @@
+
+
+rofi.lines:5 
+rofi.eh:2
+rofi.padding:350
+rofi.fullscreen:true
+rofi.bw:0
+rofi.separator-style:none
+rofi.hide-scrollbar:true
+rofi.line-padding:10
+rofi.fake-transparency:true
+!                  'background', 'border', 'separator'
+rofi.color-window: argb:c82d303b, #7c8389, argb:c82d303b
+! State:           'bg',     'fg',     'bgalt',  'hlbg',   'hlfg'
+rofi.color-normal: argb:002d303b, #f3f4f5, argb:002d303b, argb:002d303b, #9575cd 
+rofi.font: System San Francisco Display 32
+
+
+!Font
+URxvt.font: xft:monospace:size=15:style=Regular:antialias=true
+URxvt.boldFont: xft:monospace:size=15:style=Bold:antialias=true
+!URxvt.font: xft:RobotoMono-Regular:size=11:style=Regular:antialias=true
+!URxvt.boldFont: xft:RobotoMono-Bold:size=11:style=Bold:antialias=true
+URxvt.letterSpace: -0.5
+
+URxvt.iso14755: false
+URxvt.iso14755_52: false
+
+!Internal border
+URxvt*internalBorder: 24
+
+!Some other stuff
+URxvt.scrollBar: false
+URxvt.scrollTtyOutput: false
+URxvt.scrollWithBuffer: true
+URcvt.scrollTtyKeypress: true
+
+!Colors
+URxvt.background:[90]#273941
+URxvt.foreground: #ffffff
+URxvt.cursorColor: #ffffff
+URxvt.depth: 32
+
+!Black
+URxvt.color0: #151515
+URxvt.color8: #505050
+!Red
+URxvt.color1: #ac4142
+URxvt.color9: #ac6667
+!Green
+URxvt.color2: #89a840
+URxvt.color10: #91a863
+!Yellow
+URxvt.color3: #f5b85d
+Urxvt.color11: #f5cd90
+!Blue
+URxvt.color4: #4597b5
+URxvt.color12: #6a9fb5
+!Magenta
+URxvt.color5: #ab5298
+URxvt.color13: #aa759f
+!Cyan
+URxvt.color6: #45b5a0
+URxvt.color14: #75b5aa
+!White
+URxvt.color7: #b9b9b9
+URxvt.color15: #f5f5f5
+
+
+
+
+
+
+
+
+
+
+
+
